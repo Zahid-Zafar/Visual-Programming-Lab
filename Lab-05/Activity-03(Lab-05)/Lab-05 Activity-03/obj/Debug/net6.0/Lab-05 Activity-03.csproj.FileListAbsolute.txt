@@ -1,0 +1,15 @@
+C:\Users\HP 830 G6\Desktop\Lab-05 Activity-03\Lab-05 Activity-03\bin\Debug\net6.0\Lab-05 Activity-03.exe
+C:\Users\HP 830 G6\Desktop\Lab-05 Activity-03\Lab-05 Activity-03\bin\Debug\net6.0\Lab-05 Activity-03.deps.json
+C:\Users\HP 830 G6\Desktop\Lab-05 Activity-03\Lab-05 Activity-03\bin\Debug\net6.0\Lab-05 Activity-03.runtimeconfig.json
+C:\Users\HP 830 G6\Desktop\Lab-05 Activity-03\Lab-05 Activity-03\bin\Debug\net6.0\Lab-05 Activity-03.dll
+C:\Users\HP 830 G6\Desktop\Lab-05 Activity-03\Lab-05 Activity-03\bin\Debug\net6.0\Lab-05 Activity-03.pdb
+C:\Users\HP 830 G6\Desktop\Lab-05 Activity-03\Lab-05 Activity-03\obj\Debug\net6.0\Lab-05 Activity-03.csproj.AssemblyReference.cache
+C:\Users\HP 830 G6\Desktop\Lab-05 Activity-03\Lab-05 Activity-03\obj\Debug\net6.0\Lab-05 Activity-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP 830 G6\Desktop\Lab-05 Activity-03\Lab-05 Activity-03\obj\Debug\net6.0\Lab-05 Activity-03.AssemblyInfoInputs.cache
+C:\Users\HP 830 G6\Desktop\Lab-05 Activity-03\Lab-05 Activity-03\obj\Debug\net6.0\Lab-05 Activity-03.AssemblyInfo.cs
+C:\Users\HP 830 G6\Desktop\Lab-05 Activity-03\Lab-05 Activity-03\obj\Debug\net6.0\Lab-05 Activity-03.csproj.CoreCompileInputs.cache
+C:\Users\HP 830 G6\Desktop\Lab-05 Activity-03\Lab-05 Activity-03\obj\Debug\net6.0\Lab-05 Activity-03.dll
+C:\Users\HP 830 G6\Desktop\Lab-05 Activity-03\Lab-05 Activity-03\obj\Debug\net6.0\refint\Lab-05 Activity-03.dll
+C:\Users\HP 830 G6\Desktop\Lab-05 Activity-03\Lab-05 Activity-03\obj\Debug\net6.0\Lab-05 Activity-03.pdb
+C:\Users\HP 830 G6\Desktop\Lab-05 Activity-03\Lab-05 Activity-03\obj\Debug\net6.0\Lab-05 Activity-03.genruntimeconfig.cache
+C:\Users\HP 830 G6\Desktop\Lab-05 Activity-03\Lab-05 Activity-03\obj\Debug\net6.0\ref\Lab-05 Activity-03.dll

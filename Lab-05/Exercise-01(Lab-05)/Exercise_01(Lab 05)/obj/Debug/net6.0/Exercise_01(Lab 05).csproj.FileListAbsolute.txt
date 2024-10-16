@@ -1,0 +1,15 @@
+C:\Users\HP 830 G6\Desktop\Exercise_01(Lab 05)\Exercise_01(Lab 05)\obj\Debug\net6.0\Exercise_01(Lab 05).csproj.AssemblyReference.cache
+C:\Users\HP 830 G6\Desktop\Exercise_01(Lab 05)\Exercise_01(Lab 05)\obj\Debug\net6.0\Exercise_01(Lab 05).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP 830 G6\Desktop\Exercise_01(Lab 05)\Exercise_01(Lab 05)\obj\Debug\net6.0\Exercise_01(Lab 05).AssemblyInfoInputs.cache
+C:\Users\HP 830 G6\Desktop\Exercise_01(Lab 05)\Exercise_01(Lab 05)\obj\Debug\net6.0\Exercise_01(Lab 05).AssemblyInfo.cs
+C:\Users\HP 830 G6\Desktop\Exercise_01(Lab 05)\Exercise_01(Lab 05)\obj\Debug\net6.0\Exercise_01(Lab 05).csproj.CoreCompileInputs.cache
+C:\Users\HP 830 G6\Desktop\Exercise_01(Lab 05)\Exercise_01(Lab 05)\bin\Debug\net6.0\Exercise_01(Lab 05).exe
+C:\Users\HP 830 G6\Desktop\Exercise_01(Lab 05)\Exercise_01(Lab 05)\bin\Debug\net6.0\Exercise_01(Lab 05).deps.json
+C:\Users\HP 830 G6\Desktop\Exercise_01(Lab 05)\Exercise_01(Lab 05)\bin\Debug\net6.0\Exercise_01(Lab 05).runtimeconfig.json
+C:\Users\HP 830 G6\Desktop\Exercise_01(Lab 05)\Exercise_01(Lab 05)\bin\Debug\net6.0\Exercise_01(Lab 05).dll
+C:\Users\HP 830 G6\Desktop\Exercise_01(Lab 05)\Exercise_01(Lab 05)\bin\Debug\net6.0\Exercise_01(Lab 05).pdb
+C:\Users\HP 830 G6\Desktop\Exercise_01(Lab 05)\Exercise_01(Lab 05)\obj\Debug\net6.0\Exercise_01(Lab 05).dll
+C:\Users\HP 830 G6\Desktop\Exercise_01(Lab 05)\Exercise_01(Lab 05)\obj\Debug\net6.0\refint\Exercise_01(Lab 05).dll
+C:\Users\HP 830 G6\Desktop\Exercise_01(Lab 05)\Exercise_01(Lab 05)\obj\Debug\net6.0\Exercise_01(Lab 05).pdb
+C:\Users\HP 830 G6\Desktop\Exercise_01(Lab 05)\Exercise_01(Lab 05)\obj\Debug\net6.0\Exercise_01(Lab 05).genruntimeconfig.cache
+C:\Users\HP 830 G6\Desktop\Exercise_01(Lab 05)\Exercise_01(Lab 05)\obj\Debug\net6.0\ref\Exercise_01(Lab 05).dll
