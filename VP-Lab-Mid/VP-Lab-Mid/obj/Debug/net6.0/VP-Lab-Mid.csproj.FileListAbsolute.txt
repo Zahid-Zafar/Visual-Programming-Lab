@@ -1,0 +1,30 @@
+C:\Users\233579\Desktop\VP Lab\VP-Lab-Mid\VP-Lab-Mid\bin\Debug\net6.0\VP-Lab-Mid.exe
+C:\Users\233579\Desktop\VP Lab\VP-Lab-Mid\VP-Lab-Mid\bin\Debug\net6.0\VP-Lab-Mid.deps.json
+C:\Users\233579\Desktop\VP Lab\VP-Lab-Mid\VP-Lab-Mid\bin\Debug\net6.0\VP-Lab-Mid.runtimeconfig.json
+C:\Users\233579\Desktop\VP Lab\VP-Lab-Mid\VP-Lab-Mid\bin\Debug\net6.0\VP-Lab-Mid.dll
+C:\Users\233579\Desktop\VP Lab\VP-Lab-Mid\VP-Lab-Mid\bin\Debug\net6.0\VP-Lab-Mid.pdb
+C:\Users\233579\Desktop\VP Lab\VP-Lab-Mid\VP-Lab-Mid\obj\Debug\net6.0\VP-Lab-Mid.csproj.AssemblyReference.cache
+C:\Users\233579\Desktop\VP Lab\VP-Lab-Mid\VP-Lab-Mid\obj\Debug\net6.0\VP-Lab-Mid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\233579\Desktop\VP Lab\VP-Lab-Mid\VP-Lab-Mid\obj\Debug\net6.0\VP-Lab-Mid.AssemblyInfoInputs.cache
+C:\Users\233579\Desktop\VP Lab\VP-Lab-Mid\VP-Lab-Mid\obj\Debug\net6.0\VP-Lab-Mid.AssemblyInfo.cs
+C:\Users\233579\Desktop\VP Lab\VP-Lab-Mid\VP-Lab-Mid\obj\Debug\net6.0\VP-Lab-Mid.csproj.CoreCompileInputs.cache
+C:\Users\233579\Desktop\VP Lab\VP-Lab-Mid\VP-Lab-Mid\obj\Debug\net6.0\VP-Lab-Mid.dll
+C:\Users\233579\Desktop\VP Lab\VP-Lab-Mid\VP-Lab-Mid\obj\Debug\net6.0\refint\VP-Lab-Mid.dll
+C:\Users\233579\Desktop\VP Lab\VP-Lab-Mid\VP-Lab-Mid\obj\Debug\net6.0\VP-Lab-Mid.pdb
+C:\Users\233579\Desktop\VP Lab\VP-Lab-Mid\VP-Lab-Mid\obj\Debug\net6.0\VP-Lab-Mid.genruntimeconfig.cache
+C:\Users\233579\Desktop\VP Lab\VP-Lab-Mid\VP-Lab-Mid\obj\Debug\net6.0\ref\VP-Lab-Mid.dll
+C:\Users\233579\Desktop\VP-Lab-Mid\VP-Lab-Mid\bin\Debug\net6.0\VP-Lab-Mid.exe
+C:\Users\233579\Desktop\VP-Lab-Mid\VP-Lab-Mid\bin\Debug\net6.0\VP-Lab-Mid.deps.json
+C:\Users\233579\Desktop\VP-Lab-Mid\VP-Lab-Mid\bin\Debug\net6.0\VP-Lab-Mid.runtimeconfig.json
+C:\Users\233579\Desktop\VP-Lab-Mid\VP-Lab-Mid\bin\Debug\net6.0\VP-Lab-Mid.dll
+C:\Users\233579\Desktop\VP-Lab-Mid\VP-Lab-Mid\bin\Debug\net6.0\VP-Lab-Mid.pdb
+C:\Users\233579\Desktop\VP-Lab-Mid\VP-Lab-Mid\obj\Debug\net6.0\VP-Lab-Mid.csproj.AssemblyReference.cache
+C:\Users\233579\Desktop\VP-Lab-Mid\VP-Lab-Mid\obj\Debug\net6.0\VP-Lab-Mid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\233579\Desktop\VP-Lab-Mid\VP-Lab-Mid\obj\Debug\net6.0\VP-Lab-Mid.AssemblyInfoInputs.cache
+C:\Users\233579\Desktop\VP-Lab-Mid\VP-Lab-Mid\obj\Debug\net6.0\VP-Lab-Mid.AssemblyInfo.cs
+C:\Users\233579\Desktop\VP-Lab-Mid\VP-Lab-Mid\obj\Debug\net6.0\VP-Lab-Mid.csproj.CoreCompileInputs.cache
+C:\Users\233579\Desktop\VP-Lab-Mid\VP-Lab-Mid\obj\Debug\net6.0\VP-Lab-Mid.dll
+C:\Users\233579\Desktop\VP-Lab-Mid\VP-Lab-Mid\obj\Debug\net6.0\refint\VP-Lab-Mid.dll
+C:\Users\233579\Desktop\VP-Lab-Mid\VP-Lab-Mid\obj\Debug\net6.0\VP-Lab-Mid.pdb
+C:\Users\233579\Desktop\VP-Lab-Mid\VP-Lab-Mid\obj\Debug\net6.0\VP-Lab-Mid.genruntimeconfig.cache
+C:\Users\233579\Desktop\VP-Lab-Mid\VP-Lab-Mid\obj\Debug\net6.0\ref\VP-Lab-Mid.dll
