@@ -1,0 +1,7 @@
+C:\Users\PMLS\source\repos\Assignmnet_02-233543\Assignment_02\Assignment_02-233543\obj\Debug\net8.0-windows\Assignment_02-233543.vbproj.AssemblyReference.cache
+C:\Users\PMLS\source\repos\Assignmnet_02-233543\Assignment_02\Assignment_02-233543\obj\Debug\net8.0-windows\Assignment_02-233543.Form1.resources
+C:\Users\PMLS\source\repos\Assignmnet_02-233543\Assignment_02\Assignment_02-233543\obj\Debug\net8.0-windows\Assignment_02-233543.vbproj.GenerateResource.cache
+C:\Users\PMLS\source\repos\Assignmnet_02-233543\Assignment_02\Assignment_02-233543\obj\Debug\net8.0-windows\Assignment_02-233543.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PMLS\source\repos\Assignmnet_02-233543\Assignment_02\Assignment_02-233543\obj\Debug\net8.0-windows\Assignment_02-233543.AssemblyInfoInputs.cache
+C:\Users\PMLS\source\repos\Assignmnet_02-233543\Assignment_02\Assignment_02-233543\obj\Debug\net8.0-windows\Assignment_02-233543.AssemblyInfo.vb
+C:\Users\PMLS\source\repos\Assignmnet_02-233543\Assignment_02\Assignment_02-233543\obj\Debug\net8.0-windows\Assignment_02-233543.vbproj.CoreCompileInputs.cache
