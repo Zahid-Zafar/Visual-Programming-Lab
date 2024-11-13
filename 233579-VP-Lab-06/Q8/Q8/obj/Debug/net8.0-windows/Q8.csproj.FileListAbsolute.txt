@@ -1,0 +1,16 @@
+C:\Users\Abdul Wasay Sial\Desktop\Lab 7 VP\Q8\Q8\bin\Debug\net8.0-windows\Q8.exe
+C:\Users\Abdul Wasay Sial\Desktop\Lab 7 VP\Q8\Q8\bin\Debug\net8.0-windows\Q8.deps.json
+C:\Users\Abdul Wasay Sial\Desktop\Lab 7 VP\Q8\Q8\bin\Debug\net8.0-windows\Q8.runtimeconfig.json
+C:\Users\Abdul Wasay Sial\Desktop\Lab 7 VP\Q8\Q8\bin\Debug\net8.0-windows\Q8.dll
+C:\Users\Abdul Wasay Sial\Desktop\Lab 7 VP\Q8\Q8\bin\Debug\net8.0-windows\Q8.pdb
+C:\Users\Abdul Wasay Sial\Desktop\Lab 7 VP\Q8\Q8\obj\Debug\net8.0-windows\Q8.Form1.resources
+C:\Users\Abdul Wasay Sial\Desktop\Lab 7 VP\Q8\Q8\obj\Debug\net8.0-windows\Q8.csproj.GenerateResource.cache
+C:\Users\Abdul Wasay Sial\Desktop\Lab 7 VP\Q8\Q8\obj\Debug\net8.0-windows\Q8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul Wasay Sial\Desktop\Lab 7 VP\Q8\Q8\obj\Debug\net8.0-windows\Q8.AssemblyInfoInputs.cache
+C:\Users\Abdul Wasay Sial\Desktop\Lab 7 VP\Q8\Q8\obj\Debug\net8.0-windows\Q8.AssemblyInfo.cs
+C:\Users\Abdul Wasay Sial\Desktop\Lab 7 VP\Q8\Q8\obj\Debug\net8.0-windows\Q8.csproj.CoreCompileInputs.cache
+C:\Users\Abdul Wasay Sial\Desktop\Lab 7 VP\Q8\Q8\obj\Debug\net8.0-windows\Q8.dll
+C:\Users\Abdul Wasay Sial\Desktop\Lab 7 VP\Q8\Q8\obj\Debug\net8.0-windows\refint\Q8.dll
+C:\Users\Abdul Wasay Sial\Desktop\Lab 7 VP\Q8\Q8\obj\Debug\net8.0-windows\Q8.pdb
+C:\Users\Abdul Wasay Sial\Desktop\Lab 7 VP\Q8\Q8\obj\Debug\net8.0-windows\Q8.genruntimeconfig.cache
+C:\Users\Abdul Wasay Sial\Desktop\Lab 7 VP\Q8\Q8\obj\Debug\net8.0-windows\ref\Q8.dll
