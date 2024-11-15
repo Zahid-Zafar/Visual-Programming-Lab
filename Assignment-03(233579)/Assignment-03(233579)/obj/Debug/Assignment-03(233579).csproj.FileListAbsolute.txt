@@ -1,0 +1,5 @@
+C:\Users\HP 830 G6\Desktop\Assignment-03(233579)\Assignment-03(233579)\obj\Debug\Assignment-03(233579).csproj.AssemblyReference.cache
+C:\Users\HP 830 G6\Desktop\Assignment-03(233579)\Assignment-03(233579)\obj\Debug\Assignment-03(233579).csproj.SuggestedBindingRedirects.cache
+C:\Users\HP 830 G6\Desktop\Assignment-03(233579)\Assignment-03(233579)\obj\Debug\Assignment_03_233579_.Properties.Resources.resources
+C:\Users\HP 830 G6\Desktop\Assignment-03(233579)\Assignment-03(233579)\obj\Debug\Assignment-03(233579).csproj.GenerateResource.cache
+C:\Users\HP 830 G6\Desktop\Assignment-03(233579)\Assignment-03(233579)\obj\Debug\Assignment-03(233579).csproj.CoreCompileInputs.cache
