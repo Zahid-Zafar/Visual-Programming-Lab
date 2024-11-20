@@ -1,0 +1,8 @@
+C:\Users\233579\Desktop\Example-01(Lab-08)\Example-01(Lab-08)\bin\Debug\Example-01(Lab-08).exe.config
+C:\Users\233579\Desktop\Example-01(Lab-08)\Example-01(Lab-08)\bin\Debug\Example-01(Lab-08).exe
+C:\Users\233579\Desktop\Example-01(Lab-08)\Example-01(Lab-08)\bin\Debug\Example-01(Lab-08).pdb
+C:\Users\233579\Desktop\Example-01(Lab-08)\Example-01(Lab-08)\obj\Debug\Example-01(Lab-08).csproj.AssemblyReference.cache
+C:\Users\233579\Desktop\Example-01(Lab-08)\Example-01(Lab-08)\obj\Debug\Example-01(Lab-08).csproj.SuggestedBindingRedirects.cache
+C:\Users\233579\Desktop\Example-01(Lab-08)\Example-01(Lab-08)\obj\Debug\Example-01(Lab-08).csproj.CoreCompileInputs.cache
+C:\Users\233579\Desktop\Example-01(Lab-08)\Example-01(Lab-08)\obj\Debug\Example-01(Lab-08).exe
+C:\Users\233579\Desktop\Example-01(Lab-08)\Example-01(Lab-08)\obj\Debug\Example-01(Lab-08).pdb
