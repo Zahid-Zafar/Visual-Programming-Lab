@@ -1,0 +1,28 @@
+﻿<Window x:Class="Image Control_MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal">
+            <Image Width="200" Source="C:\Users\HP 830 G6\Desktop\1.jpeg" VerticalAlignment="Top" Margin="30"/>
+            <Image Width="213" Source="C:\Users\HP 830 G6\Desktop\2.jpeg" Opacity="0.5"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1">
+            <Ellipse Height="186" Width="324">
+                <Ellipse.Fill>
+                    <ImageBrush ImageSource="C:\Users\HP 830 G6\Desktop\3.jpeg"/>
+                </Ellipse.Fill>
+            </Ellipse>
+        </StackPanel>
+    </Grid>
+</Window>
