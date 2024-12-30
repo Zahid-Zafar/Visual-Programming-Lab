@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\PMLS\\source\\repos\\Hello_World\\Hello_World\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Hello_World.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Hello_World.uasla5q93c.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\PMLS\\source\\repos\\Hello_World\\Hello_World\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\PMLS\\source\\repos\\Hello_World\\Hello_World\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PMLS\\source\\repos\\Hello_World\\Hello_World\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PMLS\\source\\repos\\Hello_World\\Hello_World\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Hello_World.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Hello_World.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Hello_World.props",
+      "PackagePath": "build\\Hello_World.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Hello_World.props",
+      "PackagePath": "buildMultiTargeting\\Hello_World.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Hello_World.props",
+      "PackagePath": "buildTransitive\\Hello_World.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
