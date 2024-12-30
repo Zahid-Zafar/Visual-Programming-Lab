@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\PMLS\\source\\repos\\Routable_NonRoutable\\Routable_NonRoutable\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Routable_NonRoutable.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Routable_NonRoutable.5oke5zv03y.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\PMLS\\source\\repos\\Routable_NonRoutable\\Routable_NonRoutable\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\PMLS\\source\\repos\\Routable_NonRoutable\\Routable_NonRoutable\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PMLS\\source\\repos\\Routable_NonRoutable\\Routable_NonRoutable\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PMLS\\source\\repos\\Routable_NonRoutable\\Routable_NonRoutable\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Routable_NonRoutable.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Routable_NonRoutable.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Routable_NonRoutable.props",
+      "PackagePath": "build\\Routable_NonRoutable.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Routable_NonRoutable.props",
+      "PackagePath": "buildMultiTargeting\\Routable_NonRoutable.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Routable_NonRoutable.props",
+      "PackagePath": "buildTransitive\\Routable_NonRoutable.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

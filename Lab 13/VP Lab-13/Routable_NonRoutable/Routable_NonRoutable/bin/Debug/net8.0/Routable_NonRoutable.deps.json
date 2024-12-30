@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Routable_NonRoutable/1.0.0": {
+        "runtime": {
+          "Routable_NonRoutable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Routable_NonRoutable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Routable_NonRoutable.props" />
+</Project>
