@@ -1,0 +1,7 @@
+C:\Users\PMLS\source\repos\Hospital Manage\Hospital Manage\bin\Debug\Hospital Manage.exe.config
+C:\Users\PMLS\source\repos\Hospital Manage\Hospital Manage\bin\Debug\Hospital Manage.exe
+C:\Users\PMLS\source\repos\Hospital Manage\Hospital Manage\bin\Debug\Hospital Manage.pdb
+C:\Users\PMLS\source\repos\Hospital Manage\Hospital Manage\obj\Debug\Hospital Manage.csproj.AssemblyReference.cache
+C:\Users\PMLS\source\repos\Hospital Manage\Hospital Manage\obj\Debug\Hospital Manage.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\source\repos\Hospital Manage\Hospital Manage\obj\Debug\Hospital Manage.exe
+C:\Users\PMLS\source\repos\Hospital Manage\Hospital Manage\obj\Debug\Hospital Manage.pdb

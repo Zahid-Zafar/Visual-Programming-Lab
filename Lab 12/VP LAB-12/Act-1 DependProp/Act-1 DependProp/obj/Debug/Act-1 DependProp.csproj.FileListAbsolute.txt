@@ -1,0 +1,16 @@
+C:\Users\233543\source\repos\Act-1 DependProp\Act-1 DependProp\bin\Debug\Act-1 DependProp.exe.config
+C:\Users\233543\source\repos\Act-1 DependProp\Act-1 DependProp\bin\Debug\Act-1 DependProp.exe
+C:\Users\233543\source\repos\Act-1 DependProp\Act-1 DependProp\bin\Debug\Act-1 DependProp.pdb
+C:\Users\233543\source\repos\Act-1 DependProp\Act-1 DependProp\obj\Debug\Act-1 DependProp.csproj.AssemblyReference.cache
+C:\Users\233543\source\repos\Act-1 DependProp\Act-1 DependProp\obj\Debug\Act-1 DependProp.csproj.SuggestedBindingRedirects.cache
+C:\Users\233543\source\repos\Act-1 DependProp\Act-1 DependProp\obj\Debug\MainWindow.g.cs
+C:\Users\233543\source\repos\Act-1 DependProp\Act-1 DependProp\obj\Debug\App.g.cs
+C:\Users\233543\source\repos\Act-1 DependProp\Act-1 DependProp\obj\Debug\Act-1 DependProp_MarkupCompile.cache
+C:\Users\233543\source\repos\Act-1 DependProp\Act-1 DependProp\obj\Debug\Act-1 DependProp_MarkupCompile.lref
+C:\Users\233543\source\repos\Act-1 DependProp\Act-1 DependProp\obj\Debug\MainWindow.baml
+C:\Users\233543\source\repos\Act-1 DependProp\Act-1 DependProp\obj\Debug\Act-1 DependProp.g.resources
+C:\Users\233543\source\repos\Act-1 DependProp\Act-1 DependProp\obj\Debug\Act_1_DependProp.Properties.Resources.resources
+C:\Users\233543\source\repos\Act-1 DependProp\Act-1 DependProp\obj\Debug\Act-1 DependProp.csproj.GenerateResource.cache
+C:\Users\233543\source\repos\Act-1 DependProp\Act-1 DependProp\obj\Debug\Act-1 DependProp.csproj.CoreCompileInputs.cache
+C:\Users\233543\source\repos\Act-1 DependProp\Act-1 DependProp\obj\Debug\Act-1 DependProp.exe
+C:\Users\233543\source\repos\Act-1 DependProp\Act-1 DependProp\obj\Debug\Act-1 DependProp.pdb
