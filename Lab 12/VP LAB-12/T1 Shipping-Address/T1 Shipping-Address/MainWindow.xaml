@@ -1,0 +1,30 @@
+﻿<Window x:Class="T1_Shipping_Address.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:T1_Shipping_Address"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock Text="Select Shipping Address:" Margin="10" VerticalAlignment="Top"/>
+        <ComboBox x:Name="AddressComboBox" 
+          Margin="10,30,10,0" 
+          VerticalAlignment="Top" 
+          SelectedItem="{Binding SelectedShippingAddress, Mode=TwoWay}" 
+          SelectionChanged="AddressComboBox_SelectionChanged">
+        </ComboBox>
+
+
+        <Button Content="Add New Address" HorizontalAlignment="Left" Margin="10,70,0,0" 
+                VerticalAlignment="Top" Width="120" Click="AddAddressButton_Click"/>
+
+        <Button Content="Update Address" HorizontalAlignment="Right" Margin="0,70,10,0" 
+                VerticalAlignment="Top" Width="120" Click="UpdateAddressButton_Click"/>
+
+        <TextBlock Text="Selected Shipping Address:" Margin="10,120,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TextBox" Margin="10,150,10,0" VerticalAlignment="Top" 
+                 IsReadOnly="True" Text="{Binding SelectedShippingAddress}" TextChanged="TextBox_TextChanged" />
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\PMLS\source\repos\T1 Shipping-Address\T1 Shipping-Address\bin\Debug\T1 Shipping-Address.exe.config
+C:\Users\PMLS\source\repos\T1 Shipping-Address\T1 Shipping-Address\bin\Debug\T1 Shipping-Address.exe
+C:\Users\PMLS\source\repos\T1 Shipping-Address\T1 Shipping-Address\bin\Debug\T1 Shipping-Address.pdb
+C:\Users\PMLS\source\repos\T1 Shipping-Address\T1 Shipping-Address\obj\Debug\T1 Shipping-Address.csproj.AssemblyReference.cache
+C:\Users\PMLS\source\repos\T1 Shipping-Address\T1 Shipping-Address\obj\Debug\MainWindow.g.cs
+C:\Users\PMLS\source\repos\T1 Shipping-Address\T1 Shipping-Address\obj\Debug\App.g.cs
+C:\Users\PMLS\source\repos\T1 Shipping-Address\T1 Shipping-Address\obj\Debug\T1 Shipping-Address_MarkupCompile.cache
+C:\Users\PMLS\source\repos\T1 Shipping-Address\T1 Shipping-Address\obj\Debug\T1 Shipping-Address_MarkupCompile.lref
+C:\Users\PMLS\source\repos\T1 Shipping-Address\T1 Shipping-Address\obj\Debug\MainWindow.baml
+C:\Users\PMLS\source\repos\T1 Shipping-Address\T1 Shipping-Address\obj\Debug\T1 Shipping-Address.g.resources
+C:\Users\PMLS\source\repos\T1 Shipping-Address\T1 Shipping-Address\obj\Debug\T1_Shipping_Address.Properties.Resources.resources
+C:\Users\PMLS\source\repos\T1 Shipping-Address\T1 Shipping-Address\obj\Debug\T1 Shipping-Address.csproj.GenerateResource.cache
+C:\Users\PMLS\source\repos\T1 Shipping-Address\T1 Shipping-Address\obj\Debug\T1 Shipping-Address.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\source\repos\T1 Shipping-Address\T1 Shipping-Address\obj\Debug\T1 Shipping-Address.exe
+C:\Users\PMLS\source\repos\T1 Shipping-Address\T1 Shipping-Address\obj\Debug\T1 Shipping-Address.pdb

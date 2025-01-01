@@ -1,0 +1,8 @@
+C:\Users\233543\source\repos\Student_Class By Linq\Student_Class By Linq\bin\Debug\Student_Class By Linq.exe.config
+C:\Users\233543\source\repos\Student_Class By Linq\Student_Class By Linq\bin\Debug\Student_Class By Linq.exe
+C:\Users\233543\source\repos\Student_Class By Linq\Student_Class By Linq\bin\Debug\Student_Class By Linq.pdb
+C:\Users\233543\source\repos\Student_Class By Linq\Student_Class By Linq\obj\Debug\Student_Class By Linq.csproj.AssemblyReference.cache
+C:\Users\233543\source\repos\Student_Class By Linq\Student_Class By Linq\obj\Debug\Student_Class By Linq.csproj.SuggestedBindingRedirects.cache
+C:\Users\233543\source\repos\Student_Class By Linq\Student_Class By Linq\obj\Debug\Student_Class By Linq.csproj.CoreCompileInputs.cache
+C:\Users\233543\source\repos\Student_Class By Linq\Student_Class By Linq\obj\Debug\Student_Class By Linq.exe
+C:\Users\233543\source\repos\Student_Class By Linq\Student_Class By Linq\obj\Debug\Student_Class By Linq.pdb
