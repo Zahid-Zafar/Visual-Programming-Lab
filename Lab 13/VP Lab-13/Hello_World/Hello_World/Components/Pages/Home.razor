@@ -1,7 +1,74 @@
 ﻿@page "/"
+@rendermode InteractiveServer
 
-<PageTitle>Home</PageTitle>
+<PageTitle>Interactive Greeting</PageTitle>
 
-<h1>Hello, world!</h1>
+<h1>Interactive Greeting System</h1>
 
-Welcome to your new app.
+<div style="margin: 20px 0;">
+    <label for="greetingInput">Enter your greeting or name:</label>
+    <br />
+    <input @bind="userInput" @onkeypress="HandleKeyPress" id="greetingInput" 
+           placeholder="Type 'Hi' or your name..." style="padding: 5px; margin: 10px 0; width: 250px;" />
+    <br />
+    <button @onclick="ProcessGreeting" style="padding: 5px 15px;">Send Greeting</button>
+</div>
+
+<div style="margin: 20px 0; padding: 15px; background-color: #f0f8ff; border-radius: 5px;">
+    <h3>@responseTitle</h3>
+    <p>@responseMessage</p>
+</div>
+
+@code {
+    private string userInput = "";
+    private string responseTitle = "Welcome!";
+    private string responseMessage = "Enter your greeting above to get a personalized response.";
+
+    private void ProcessGreeting()
+    {
+        if (string.IsNullOrWhiteSpace(userInput))
+        {
+            responseTitle = "Oops!";
+            responseMessage = "Please enter something first!";
+            return;
+        }
+
+        var input = userInput.Trim().ToLower();
+        
+        if (input == "hi" || input == "hello")
+        {
+            responseTitle = "Hi there! 👋";
+            responseMessage = $"Hello! Nice to meet you! Thanks for saying '{userInput}'. This is your interactive Visual Programming Lab greeting system!";
+        }
+        else if (input.StartsWith("hi ") || input.StartsWith("hello "))
+        {
+            var name = userInput.Substring(input.IndexOf(' ') + 1).Trim();
+            responseTitle = $"Hi {name}! 👋";
+            responseMessage = $"Hello {name}! Welcome to the Visual Programming Lab. Great to have you here!";
+        }
+        else if (input == "bye" || input == "goodbye")
+        {
+            responseTitle = "Goodbye! 👋";
+            responseMessage = "Thanks for using the interactive greeting system. See you later!";
+        }
+        else
+        {
+            responseTitle = $"Hello {userInput}! 👋";
+            responseMessage = $"Nice to meet you, {userInput}! Welcome to this interactive Visual Programming Lab application.";
+        }
+        
+        // Don't clear the input immediately - let user see the result first
+        // userInput = "";
+        
+        // Force UI update
+        StateHasChanged();
+    }
+
+    private void HandleKeyPress(KeyboardEventArgs e)
+    {
+        if (e.Key == "Enter")
+        {
+            ProcessGreeting();
+        }
+    }
+}
