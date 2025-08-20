@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP 830 G6\\Desktop\\Assignment-05\\Activity-1 Assign_05\\Activity-1 Assign_05\\Activity-1 Assign_05.csproj": {}
+    "/home/runner/work/Visual-Programming-Lab/Visual-Programming-Lab/Assignment-05/Activity-1 Assign_05/Activity-1 Assign_05/Activity-1 Assign_05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP 830 G6\\Desktop\\Assignment-05\\Activity-1 Assign_05\\Activity-1 Assign_05\\Activity-1 Assign_05.csproj": {
+    "/home/runner/work/Visual-Programming-Lab/Visual-Programming-Lab/Assignment-05/Activity-1 Assign_05/Activity-1 Assign_05/Activity-1 Assign_05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP 830 G6\\Desktop\\Assignment-05\\Activity-1 Assign_05\\Activity-1 Assign_05\\Activity-1 Assign_05.csproj",
+        "projectUniqueName": "/home/runner/work/Visual-Programming-Lab/Visual-Programming-Lab/Assignment-05/Activity-1 Assign_05/Activity-1 Assign_05/Activity-1 Assign_05.csproj",
         "projectName": "Activity-1_Assign_05",
-        "projectPath": "C:\\Users\\HP 830 G6\\Desktop\\Assignment-05\\Activity-1 Assign_05\\Activity-1 Assign_05\\Activity-1 Assign_05.csproj",
-        "packagesPath": "C:\\Users\\HP 830 G6\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP 830 G6\\Desktop\\Assignment-05\\Activity-1 Assign_05\\Activity-1 Assign_05\\obj\\",
+        "projectPath": "/home/runner/work/Visual-Programming-Lab/Visual-Programming-Lab/Assignment-05/Activity-1 Assign_05/Activity-1 Assign_05/Activity-1 Assign_05.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/home/runner/work/Visual-Programming-Lab/Visual-Programming-Lab/Assignment-05/Activity-1 Assign_05/Activity-1 Assign_05/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HP 830 G6\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/runner/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,13 +32,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -68,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.118/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
